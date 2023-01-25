@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root{
+  display: inline-block;
+  margin-top: 10%;
+  margin-left: 35%;
+  background-color:rgb(224, 240, 226);
+}
+
+body{
+  background-color: aquamarine;
+}
